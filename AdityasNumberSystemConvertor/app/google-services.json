@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584622864624",
+    "firebase_url": "https://adi-s-number-system-convertor-default-rtdb.firebaseio.com",
+    "project_id": "adi-s-number-system-convertor",
+    "storage_bucket": "adi-s-number-system-convertor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584622864624:android:6975dfef5ac7e959b62a35",
+        "android_client_info": {
+          "package_name": "com.adisoft.adityasnumbersystemconvertor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584622864624-aiuhcbddrnql75biu95524nr8d5h3b6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtq2_XePWSdt815tyWjpRqDJEQtyD3AHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584622864624-aiuhcbddrnql75biu95524nr8d5h3b6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
